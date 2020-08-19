@@ -1,0 +1,1 @@
+dir_name = '/home/sonakshireddy/Downloads/zips'
