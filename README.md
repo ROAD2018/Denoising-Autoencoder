@@ -3,8 +3,8 @@ Denoising autoencoder with attention to eliminate noise in the soil moisture con
 The steps involved in building the model:
 
 - Data analysis and visualisation for feature selection and engineering
-- collection of data from different sources and feature selection based on noise and sequence lengths
+- Collectiom of data from different sources and feature selection based on noise and sequence lengths
 - Building gru and lstm encoder decoder models to predict the denoised sequence of soil moisture values
-- implementing an ensemble model of gru and lstm to improve the denoising predictions
+- Implementing an ensemble model of gru and lstm to improve the denoising predictions
 
 
